@@ -1,6 +1,6 @@
 writeCode
 
-Write command to
+Write command
 
 - List collections from a database.
 - create a new collection in your country database which you created recently.
